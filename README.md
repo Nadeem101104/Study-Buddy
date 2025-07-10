@@ -44,16 +44,27 @@ GitHub by: [Nadeem Khan](https://github.com/Nadeem101104)
 2. Install dependencies:
 
 pip install transformers==4.40.1
+
 pip install openvino==2023.3.0
+
 pip install "optimum[exporters]==1.17.1"
+
 pip install numpy>=1.23.5
+
 pip install gradio==4.26.0
+
 pip install SpeechRecognition==3.10.1
+
 pip install torch==2.2.2
+
 pip install torchaudio==2.2.2
+
 pip install scipy>=1.11.3
+
 pip install pyaudio==0.2.13
+
 pip install setuptools>=65.5.1
+
 pip install huggingface-hub>=0.21.3
 
 3. Download & export TinyLLaMA model (ONNX to IR format):
