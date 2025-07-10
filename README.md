@@ -1,5 +1,5 @@
 
-# 🤖 Study Buddy: TinyLLaMA + OpenVINO Chatbot
+# 🤖 Study Buddy
 
 A lightweight, CPU-optimized AI assistant built using OpenVINO and TinyLLaMA. It features a Gradio-powered UI, real-time streaming responses, and voice input via speech recognition. Perfect for offline use, study assistance, or privacy-first AI deployment.
 
